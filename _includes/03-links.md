@@ -1,1 +1,1 @@
-[linkedin profile] (https://www.linkedin.com)
+[text](https://example.com)
